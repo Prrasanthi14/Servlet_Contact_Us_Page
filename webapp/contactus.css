@@ -1,0 +1,39 @@
+@charset "UTF-8";
+h{
+	color: #4B56D2;
+}
+
+p{
+	margin-top: .4rem;
+	opacity: .7;
+}
+#contactform{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: 5rem 25rem 10rem;
+	background-color: #62B6B7;
+}
+#name{
+	margin: 2rem 15rem 4rem;
+	text-align: left;
+}
+
+#email{
+	margin: 0 15rem 4rem;
+	text-align: left;
+}
+
+#message{
+	margin: 0 15rem 4rem;
+	text-align: left;
+}
+
+#submit{
+	margin: 0 15rem 2rem;
+}
+
+.submit{
+	padding: 1rem 1.5rem;
+	font-size: 1rem;
+}

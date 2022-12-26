@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+#main-form{
+	display: flex;
+	flex-direction: column;
+	background-color: #F3CCFF;
+	margin: 10rem 40rem;
+	text-align: center;
+}
+
+#name{
+	margin: 0 9rem;
+	text-align: left;
+}
+
+#password{
+	margin: 0 9rem;
+	text-align: left;
+}
+
+#submit{
+	margin-bottom: 2rem;
+}
